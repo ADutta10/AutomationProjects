@@ -1,0 +1,8 @@
+01:51:12.215 [main] INFO  resources.base - Validated the Navigation Page properly
+01:51:22.544 [main] INFO  resources.base - Validated the Title properly
+02:00:14.989 [main] INFO  resources.base - Navigated to Page
+02:00:15.916 [main] INFO  resources.base - Non Restricted User
+02:00:20.955 [main] INFO  resources.base - Navigated to Page
+02:00:22.038 [main] INFO  resources.base - Restricted User
+02:00:27.612 [main] INFO  resources.base - Validated the Navigation Page properly
+01:27:52.137 [TestNG] INFO  resources.base - Validated the Navigation Page properly

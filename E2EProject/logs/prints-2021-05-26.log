@@ -1,0 +1,8 @@
+01:08:10.993 [TestNG] INFO  resources.base - Non Restricted User
+01:08:18.125 [TestNG] INFO  resources.base - Navigated to Page
+01:08:19.496 [TestNG] INFO  resources.base - Restricted User
+01:14:03.973 [TestNG] INFO  resources.base - Navigated to Page
+01:14:05.474 [TestNG] INFO  resources.base - Validated the Title properly
+01:14:06.093 [TestNG] INFO  resources.base - Non Restricted User
+01:14:07.813 [TestNG] INFO  resources.base - Validated the Navigation Page properly
+01:14:14.146 [TestNG] INFO  resources.base - Navigated to Page

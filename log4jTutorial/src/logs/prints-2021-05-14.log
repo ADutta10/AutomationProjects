@@ -1,0 +1,9 @@
+01:09:41.171 [main] DEBUG alpha.Demo - This is to debug
+01:09:41.174 [main] INFO  alpha.Demo - The object is present
+01:09:41.174 [main] ERROR alpha.Demo - There is an error
+01:09:41.174 [main] FATAL alpha.Demo - there is a fatal error
+01:10:05.715 [main] ERROR beta.Demo1 - There is an error
+01:10:05.718 [main] FATAL beta.Demo1 - there is a fatal error
+01:10:32.956 [main] DEBUG beta.Demo1 - I have clicked on the link
+01:10:32.959 [main] INFO  beta.Demo1 - The object is present
+01:10:32.959 [main] ERROR beta.Demo1 - There is an error

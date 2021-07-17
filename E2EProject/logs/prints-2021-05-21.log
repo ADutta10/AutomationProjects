@@ -1,0 +1,8 @@
+01:09:34.445 [main] INFO  resources.base - Navigated to Page
+01:09:35.492 [main] INFO  resources.base - Restricted User
+01:09:41.989 [main] INFO  resources.base - Validated the Navigation Page properly
+01:09:47.946 [main] INFO  resources.base - Validated the Title properly
+01:50:53.377 [main] INFO  resources.base - Navigated to Page
+01:50:54.665 [main] INFO  resources.base - Non Restricted User
+01:51:05.021 [main] INFO  resources.base - Navigated to Page
+01:51:06.186 [main] INFO  resources.base - Restricted User

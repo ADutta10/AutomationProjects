@@ -1,0 +1,4 @@
+01:09:01.674 [main] DEBUG alpha.Demo - This is to debug
+01:09:01.678 [main] INFO  alpha.Demo - The object is present
+01:09:01.678 [main] ERROR alpha.Demo - There is an error
+01:09:01.678 [main] FATAL alpha.Demo - there is a fatal error
